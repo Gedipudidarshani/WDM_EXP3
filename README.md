@@ -112,6 +112,7 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/5d135b21-91a1-4a93-85e1-d9d5a9edd35b)
 
 ### Visualization:
 ```python
@@ -140,6 +141,8 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/b51e3655-bbff-4ece-ad49-3e673182c7e6)
+![image](https://github.com/user-attachments/assets/1d718145-4554-4f1e-b190-414c6442cf7a)
 
 
 ### Result:
